@@ -1,0 +1,3 @@
+Nordic Track: #0183c0
+Proform: #1a96d3
+Default: #0fb3e0
